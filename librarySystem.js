@@ -21,7 +21,7 @@
   var sandwichLibrary = {
     breads: breads,
     fillings: fillings
-  }
+  };
 
   window.sandwichLibrary = sandwichLibrary;
 
